@@ -49,7 +49,7 @@ To run the app, simply write.
 
 
 ##  Download apk
-https://github.com/Omk-0810/bynry_casestudy/blob/master/bynry_casestudy.apk/blob/master/bynry_casestudy.apk
+https://github.com/Omk-0810/bynry_casestudy/blob/master/bynry_casestudy.apk
 
 
 ## Screenshots
